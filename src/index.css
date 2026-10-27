@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: 'Calibri', 'Arial', sans-serif;
+    scroll-behavior: smooth;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

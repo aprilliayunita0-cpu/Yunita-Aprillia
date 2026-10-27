@@ -1,0 +1,8 @@
+{
+  "name": "Remix TORO Transportasi \u0026 Logistic",
+  "description": "PT. Toro Sentosa Group - Solusi Transportasi \u0026 Logistik ke Seluruh Indonesia. Ekspedisi Cargo Darat, Laut, Udara, Trucking, Sewa Armada, dan Jasa Import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
